@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucasgomesgp
+# 👋 Hi, I’m @lucasgomesgp
  
 #### My name is Lucas Gomes, I am Brazilian, born and raised in Ceará, where since high school I had several experiences with technologies and it was there that I fell in love with the world of programming.
 
