@@ -1,9 +1,7 @@
-# 👋 Hi, I’m @lucasgomesgp
+# 👋 Olá, sou @lucasgomesgp
  
-#### My name is Lucas Gomes, I am Brazilian, born and raised in Ceará, where since high school I had several experiences with technologies and it was there that I fell in love with the world of programming.
-
-- 🎓 I am a computer technician, training that brought me the first contact with programming.
-
-- 👨‍💻 Focus on Web Development
-- 💻 Graduating in **Information Systems**
-- ✅ Experiences with: Java and Javascript
+### Me chamo Lucas Gomes, nascido e criado no Ceará, onde estudei em uma escola técnica e tive os primeiros contatos com tecnologia e principalmente com o mundo da programação.
+- 🎓 Sou técnico em informática, sendo este o curso que me trouxe grande parte do conhecimento e noções de programação que tenho hoje.
+- 👨‍💻 Atualmente estou focado no Desenvolvimento Web, em específico no FrontEnd 
+- 💻 Graduando em **Sistemas de Informação**
+- ✅ Experiência com: Java e Javascript(Com foco em ReactJS)
