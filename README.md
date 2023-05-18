@@ -2,8 +2,7 @@
  
 Me chamo Lucas Gomes, nascido e criado no interior do Ceará, onde estudei em uma escola técnica e tive os primeiros contatos com tecnologia e principalmente com o mundo da programação.
 - 🎓 Técnico em informática
-- 👨‍💻 Desenvolvedor FrontEnd e Mobile
-     - React e React Native
+- 👨‍💻 Desenvolvedor FrontEnd
 - 💻 Bacharel em **Sistemas de Informação**
 
 ## Minhas habilidades
