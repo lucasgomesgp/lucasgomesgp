@@ -1,9 +1,10 @@
 # 👋 Olá, sou @lucasgomesgp
  
-Me chamo Lucas Gomes, nascido e criado no interior do Ceará, onde estudei em uma escola técnica e tive os primeiros contatos com tecnologia e principalmente com o mundo da programação.
-- 🎓 Técnico em informática
-- 👨‍💻 Desenvolvedor Frontend
+Me chamo Lucas Gomes, nascido e criado no interior do Ceará, apaixonado por programação e pelo mundo da tecnologia, sou:
+- 🎓 Técnico em Informática
 - 💻 Bacharel em **Sistemas de Informação** pela **Unijuazeiro/Uninassau**
+- 👨‍💻 Atuo como Desenvolvedor **Frontend**
+- 🖥 Principais stacks: React.js, Next.js, Typescript, Tailwind e algumas outras.
 
 ## Minhas habilidades
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,sass,react,nextjs,vite,tailwind,redux,firebase,gcp,remix,aws,postgres,supabase,git,github,vercel,linux,figma,jest,cypress,vitest)](https://skillicons.dev)
@@ -17,6 +18,4 @@ Me chamo Lucas Gomes, nascido e criado no interior do Ceará, onde estudei em um
 
 ### Onde me encontrar?
 <a href="https://www.linkedin.com/in/lucas-gomes-aab356173/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://mailto:lucasgpdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<a href="https://lucasgomes.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
 <a href="https://dev.to/lucas_gomesgp" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a> 
